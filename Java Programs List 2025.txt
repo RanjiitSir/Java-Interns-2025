@@ -1,0 +1,80 @@
+
+							Programs on BASIC I/O
+
+Create a program to add two numbers provided by the user and display the result.
+
+Write a program to accept marks of 3 subjects and calculate and display total and percentage.
+
+Write a program which accept radius of circle from user and calculate its area. Consider value of PI as 3.14.
+
+Write a program which accept width & height of rectangle from user and calculate its area. (Area = Width * Height)
+
+Write a program which accept distance in kilometer and convert it into meter.
+(1 kilometer = 1000 Meter)
+
+Write a program which accept temperature in Fahrenheit and convert it into Celsius.
+(1 Celsius = (Fahrenheit - 32) * (5.0/9.0))
+
+Write a program that accepts two numbers from the user and swaps their values.
+
+Write a program that accepts two numbers from the user and swaps their values.
+(Without using a third variable)
+
+================================================================================
+
+					Programs On Conditional Controls
+					
+Write a program to check if a given number is even or odd.
+
+Write a program to check if a given number is positive or negative.
+
+Write a program to find the maximum number between two given numbers.
+
+Write a program to accept a number from the user and check whether it is divisible by 7, then display the result.
+
+Write a program to accept a number from the user and check whether it is divisible by 5 and 7 or not.
+
+Write a program that accepts a day number (1 to 7) and prints the corresponding day of the week
+
+Write a program to check whether a given year is a leap year. if( Year < 1000 || Year > 9999){INVALID} else if(Year % 4 == 0) {LEAP}
+
+Write a program to accept a character from the user and check whether that character is a vowel (a, e, i, o, u). Display the result.
+
+Write a program to accept a character from the user and check if it is an upper case letter or a lower case letter.
+
+=====================================================================================
+
+						Programs On Looping
+
+Write a program to accept a number from the user and print that number of * on screen.
+
+Create a program to print the multiplication table of a given number.
+
+Write a program to print the reverse multiplication table of a given number
+
+Write a program to calculate and print the factorial of a given number.
+
+Write a program which accept two numbers from user and display first number in second number of times.
+
+Write a program to print the letters from H to N using a loop. (forward, fixed range)
+
+Write a program to print the letters from w to e using a loop. (reverse, fixed range)
+
+Write a program to print the letters in user specified range using a loop. (forward or reverse range, variable range)
+
+Write a program to calculate the sum of 10 numbers inputted by the user.
+
+Write Program to find maximum no. from 7 inputted numbers.
+
+Write Program to make sum of numbers till user enter zero or negative number.
+(Use break/continue & unconditional loop).
+
+==================================================================================================
+
+Write Program to print Fibonacci series from 0 to N, Accept N from user.
+
+Write a program that accepts a number from the user, sums its digits, and displays them in the following format.
+
+Write a program which accept number from user and Count Zero Digits in it.
+
+Write to program to check whether a given number is prime or not.
